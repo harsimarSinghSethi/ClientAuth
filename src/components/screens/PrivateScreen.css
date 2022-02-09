@@ -1,0 +1,12 @@
+.private {
+  background-color: linear-gradient(#cc2b5e, #753a88);
+}
+
+.button_private {
+  margin-top: 100px;
+  width: 100px;
+  height: 50px;
+  border: 1px solid palevioletred;
+  background-color: palevioletred;
+  color: white;
+}
